@@ -24,6 +24,8 @@
 | 🏠 | **shopping-recipes** | The self-hosted stack behind it: Mealie, Home Assistant, nginx, and a custom MCP server |
 | 📚 | **knowledgebase** | My Obsidian operations wiki, synced to the VPS |
 
+[**Developer workspace guide →**](docs/code-workspace.md) — web releases, manual deployment, iOS builds, direct iPhone installation, verification and rollback.
+
 <sub>The code lives in private repos while it matures — happy to talk about any of it.</sub>
 
 ## 🔭 Currently
