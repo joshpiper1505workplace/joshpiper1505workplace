@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="YoMamma — a mum with a wooden spoon, ready to whack">
+  <!-- Warm cream background -->
+  <rect width="512" height="512" fill="#f7e8d0"/>
+  <circle cx="256" cy="256" r="246" fill="#fbf1de"/>
+  <circle cx="256" cy="256" r="246" fill="none" stroke="#e8d3b0" stroke-width="6"/>
+
+  <!-- Motion lines: about to whack -->
+  <g stroke="#e0784f" stroke-width="12" stroke-linecap="round" fill="none">
+    <path d="M356 76 q26 -18 12 -44"/>
+    <path d="M392 96 q34 -10 34 -34"/>
+    <path d="M420 128 q26 6 38 -10"/>
+  </g>
+
+  <!-- Wooden spoon, raised high -->
+  <g transform="rotate(-24 360 150)">
+    <path d="M352 210 q-16 -10 -24 6 l-14 118 q-1 9 8 9 l26 -4 q7 -1 6 -9 z" fill="#a86f38"/>
+    <ellipse cx="318" cy="92" rx="42" ry="58" fill="#c98a4b"/>
+    <ellipse cx="318" cy="92" rx="42" ry="58" fill="none" stroke="#a86f38" stroke-width="5"/>
+    <ellipse cx="318" cy="96" rx="26" ry="38" fill="#d9a165"/>
+  </g>
+
+  <!-- Raised arm and hand -->
+  <path d="M338 300 q58 -54 26 -120" stroke="#f4c79b" stroke-width="30" stroke-linecap="round" fill="none"/>
+  <circle cx="360" cy="176" r="20" fill="#f4c79b"/>
+  <circle cx="360" cy="176" r="20" fill="none" stroke="#e3ad7d" stroke-width="3"/>
+
+  <!-- Body / apron -->
+  <path d="M160 512 q0 -74 24 -118 q16 -30 72 -44 q56 14 72 44 q24 44 24 118 z" fill="#e8684e"/>
+  <path d="M256 354 l0 128" stroke="#c9503a" stroke-width="6" stroke-linecap="round"/>
+  <path d="M196 378 q30 -20 60 -20 q30 0 60 20" stroke="#c9503a" stroke-width="6" stroke-linecap="round" fill="none"/>
+  <path d="M206 452 q25 -16 50 -16 q25 0 50 16" stroke="#f7c8b4" stroke-width="6" stroke-linecap="round" fill="none"/>
+  <!-- Apron neck straps -->
+  <path d="M222 352 l-20 -52" stroke="#c9503a" stroke-width="9" stroke-linecap="round"/>
+  <path d="M290 352 l20 -52" stroke="#c9503a" stroke-width="9" stroke-linecap="round"/>
+
+  <!-- Neck -->
+  <rect x="238" y="286" width="36" height="34" rx="14" fill="#eab98b"/>
+
+  <!-- Head -->
+  <circle cx="256" cy="232" r="92" fill="#f4c79b"/>
+
+  <!-- Hair cap + bun -->
+  <path d="M164 226 q0 -84 92 -84 q92 0 92 84 q-34 -42 -92 -42 q-58 0 -92 42 z" fill="#5a4636"/>
+  <circle cx="256" cy="118" r="34" fill="#5a4636"/>
+  <circle cx="256" cy="112" r="34" fill="none" stroke="#6b5544" stroke-width="4"/>
+  <path d="M232 112 q24 20 48 0" stroke="#6b5544" stroke-width="5" fill="none" stroke-linecap="round"/>
+
+  <!-- Face -->
+  <g fill="#3a2f28">
+    <circle cx="220" cy="244" r="8"/>
+    <circle cx="292" cy="244" r="8"/>
+  </g>
+  <!-- Eyebrows: right one raised -->
+  <g stroke="#5a4636" stroke-width="8" stroke-linecap="round" fill="none">
+    <path d="M204 218 q16 -9 32 -4"/>
+    <path d="M276 214 q16 -17 34 -18"/>
+  </g>
+  <!-- Nose -->
+  <path d="M256 256 q4 8 -2 12" stroke="#e3ad7d" stroke-width="5" stroke-linecap="round" fill="none"/>
+  <!-- Determined, loving smile -->
+  <path d="M228 282 q28 26 56 0" stroke="#3a2f28" stroke-width="8" stroke-linecap="round" fill="none"/>
+  <circle cx="228" cy="286" r="9" fill="#f2a98c" opacity="0.7"/>
+  <circle cx="284" cy="286" r="9" fill="#f2a98c" opacity="0.7"/>
+
+  <!-- Ground shadow -->
+  <ellipse cx="256" cy="498" rx="130" ry="16" fill="#d9c19a" opacity="0.55"/>
+</svg>
