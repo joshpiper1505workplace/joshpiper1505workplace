@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-label="Joshua Piper — the Piper family of apps">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0f172a"/>
+      <stop offset="0.55" stop-color="#1e1b4b"/>
+      <stop offset="1" stop-color="#312e81"/>
+    </linearGradient>
+    <linearGradient id="sail" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#fdba74"/>
+      <stop offset="0.5" stop-color="#f97316"/>
+      <stop offset="1" stop-color="#c2410c"/>
+    </linearGradient>
+    <linearGradient id="sail2" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#a5b4fc"/>
+      <stop offset="1" stop-color="#6366f1"/>
+    </linearGradient>
+    <linearGradient id="rule" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#f97316"/>
+      <stop offset="1" stop-color="#6366f1"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="300" rx="18" fill="url(#bg)"/>
+
+  <g fill="#818cf8" opacity="0.35">
+    <circle cx="1075" cy="52" r="2"/>
+    <circle cx="1128" cy="88" r="1.5"/>
+    <circle cx="1043" cy="105" r="1.5"/>
+    <circle cx="1150" cy="40" r="2"/>
+    <circle cx="990" cy="60" r="1.5"/>
+    <circle cx="1108" cy="130" r="1.5"/>
+  </g>
+  <path d="M1122 168 l3.2 8.8 8.8 3.2 -8.8 3.2 -3.2 8.8 -3.2 -8.8 -8.8 -3.2 8.8 -3.2 z" fill="#f97316" opacity="0.9"/>
+  <path d="M1052 148 l2.2 6 6 2.2 -6 2.2 -2.2 6 -2.2 -6 -6 -2.2 6 -2.2 z" fill="#a5b4fc" opacity="0.8"/>
+
+  <g>
+    <path d="M852 232 Q858 130 948 108 Q900 168 896 232 Z" fill="url(#sail2)" opacity="0.85"/>
+    <path d="M896 232 Q906 112 1010 86 Q952 158 946 232 Z" fill="url(#sail)" opacity="0.95"/>
+    <path d="M946 232 Q958 134 1046 112 Q1000 172 996 232 Z" fill="url(#sail)" opacity="0.8"/>
+    <path d="M996 232 Q1006 156 1072 140 Q1038 186 1036 232 Z" fill="url(#sail2)" opacity="0.7"/>
+    <rect x="836" y="232" width="252" height="6" rx="3" fill="#0f172a" opacity="0.55"/>
+    <rect x="836" y="230" width="252" height="3" rx="1.5" fill="#f97316" opacity="0.6"/>
+  </g>
+
+  <g font-family="ui-sans-serif, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif">
+    <text x="64" y="104" font-size="58" font-weight="700" fill="#f8fafc" letter-spacing="-1">Joshua Piper</text>
+    <rect x="66" y="124" width="150" height="5" rx="2.5" fill="url(#rule)"/>
+    <text x="64" y="172" font-size="40" fill="#c7d2fe">The Piper family — apps for</text>
+    <text x="64" y="220" font-size="40" fill="#c7d2fe">Apple &amp; the web, self-hosted in Sydney.</text>
+    <text x="64" y="266" font-size="24" fill="#94a3b8">joshuapiper.dev · piper.sydney</text>
+  </g>
+</svg>
