@@ -3,7 +3,7 @@
 <img src="assets/hero-banner.svg" width="100%" alt="Joshua Piper — the Piper family: apps for Apple and the web, self-hosted in Sydney" />
 
 [![joshuapiper.dev](https://img.shields.io/badge/joshuapiper.dev-6366f1?style=for-the-badge)](https://joshuapiper.dev)
-[![piper.sydney](https://img.shields.io/badge/piper.sydney-f97316?style=for-the-badge)](https://piper.sydney)
+[![piper.sydney](https://img.shields.io/badge/piper.sydney-c2410c?style=for-the-badge)](https://piper.sydney)
 [![Old profile](https://img.shields.io/badge/old_profile-Josh--Piper-24292f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Josh-Piper)
 
 [![SwiftUI](https://img.shields.io/badge/SwiftUI-6366f1?style=flat-square&logo=swift&logoColor=white)]()
@@ -22,18 +22,18 @@ Software engineer in **Sydney, Australia** 🇦🇺. After three years of heads-
 
 | | App | What it is |
 |---|---|---|
-| <img src="logos/yomamma/yomamma-master.svg" width="28" alt="" /> | [**YoMamma**](https://yomamma.piper.sydney) | Sunsama-style daily planner |
+| <img src="logos/yomamma/yomamma-icon.svg" width="28" alt="" /> | [**YoMamma**](https://yomamma.piper.sydney) | Sunsama-style daily planner |
 | 🗓️ | [**Dayglass**](https://dayglass.joshuapiper.dev) | Calendar & tasks, natural-language entry |
 | 🎯 | [**Focusy**](https://joshuapiper.dev/projects/focusy/) | Calm visual planning, focus & time tracking |
-| <img src="logos/mindcanvas/tangent-logo.jpg" width="28" alt="" /> | [**MindCanvas Studio**](https://mindcanvas.piper.sydney) | Whiteboard for web & Apple devices |
+| <img src="logos/mindcanvas/tangent-icon.png" width="28" alt="" /> | [**MindCanvas Studio**](https://mindcanvas.piper.sydney) | Whiteboard for web & Apple devices |
 | 📋 | [**Clipstack**](https://joshuapiper.dev/projects/clipstack/) | Clipboard history, folders & pinboards |
 | 🌊 | [**Drift**](https://joshuapiper.dev/projects/drift/) | Arc-style personal browser |
-| <img src="logos/recipes/little-simmer-master.png" width="28" alt="" /> | [**Recipes**](https://joshuapiper.dev/projects/recipes/) | Meal planning & shopping lists on my [Mealie](https://mealie.io) |
+| <img src="logos/recipes/little-simmer-icon.png" width="28" alt="" /> | [**Recipes**](https://joshuapiper.dev/projects/recipes/) | Meal planning & shopping lists on my [Mealie](https://mealie.io) |
 | <img src="logos/formylife/fml-mark.svg" width="28" alt="" /> | [**ForMyLife**](https://budget.piper.sydney) | A calm, four-rule life budget |
 | 🔁 | [**SubbyScrubby**](https://joshuapiper.dev/projects/subscription-manager/) | Renewals, trials & plan comparisons |
-| <img src="logos/snapmark/screeny-icon.png" width="28" alt="" /> | [**Snapmark**](https://joshuapiper.dev/projects/snapmark/) | Screenshots, markup, OCR & library |
+| <img src="logos/snapmark/snapmark-icon.png" width="28" alt="" /> | [**Snapmark**](https://joshuapiper.dev/projects/snapmark/) | Screenshots, markup, OCR & library |
 | 🎧 | [**Listenable**](https://joshuapiper.dev/projects/listenable/) | Reddit & articles, cleaned up for listening |
-| ⛳ | [**Piper's Putt Party**](https://joshuapiper.dev/future/game-01/) | Slingshot mini golf, pinball hazards |
+| ⛳ | [**Game 01**](https://joshuapiper.dev/future/game-01/) | A future Piper idea — concept stage |
 
 ## 🛠 Mac utilities
 
@@ -63,7 +63,7 @@ Software engineer in **Sydney, Australia** 🇦🇺. After three years of heads-
 | | Project | What it is |
 |---|---|---|
 | ✍️ | [**Blog**](https://joshuapiper.dev/blog/) | My writing, built with Quartz |
-| <img src="logos/piper-group/piper-group-sydney-logo.svg" width="28" alt="" /> | [**Piper**](https://piper.sydney) | The self-hosted stack behind it all |
+| <img src="logos/piper-group/piper-group-mark.svg" width="28" height="28" alt="" /> | [**Piper**](https://piper.sydney) | The self-hosted stack behind it all |
 | 📚 | **Knowledge base** | Private Obsidian operations wiki |
 
 [**Developer workspace guide →**](docs/code-workspace.md)

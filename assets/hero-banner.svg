@@ -43,10 +43,10 @@
   </g>
 
   <g font-family="ui-sans-serif, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif">
-    <text x="64" y="118" font-size="58" font-weight="700" fill="#f8fafc" letter-spacing="-1">Joshua Piper</text>
-    <rect x="66" y="138" width="150" height="5" rx="2.5" fill="url(#rule)"/>
-    <text x="64" y="182" font-size="22" fill="#c7d2fe">The Piper family — apps for Apple &amp; the web,</text>
-    <text x="64" y="212" font-size="22" fill="#c7d2fe">self-hosted in Sydney.</text>
-    <text x="64" y="254" font-size="16" fill="#94a3b8">joshuapiper.dev · piper.sydney</text>
+    <text x="64" y="104" font-size="58" font-weight="700" fill="#f8fafc" letter-spacing="-1">Joshua Piper</text>
+    <rect x="66" y="124" width="150" height="5" rx="2.5" fill="url(#rule)"/>
+    <text x="64" y="172" font-size="40" fill="#c7d2fe">The Piper family — apps for</text>
+    <text x="64" y="220" font-size="40" fill="#c7d2fe">Apple &amp; the web, self-hosted in Sydney.</text>
+    <text x="64" y="266" font-size="24" fill="#94a3b8">joshuapiper.dev · piper.sydney</text>
   </g>
 </svg>
