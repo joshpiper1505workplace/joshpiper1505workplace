@@ -15,7 +15,21 @@ Source paths are relative to `~/code`.
 | FML — ForMyLife (budget) | `logos/formylife/fml-mark.svg` + `fml-512.png` | `formylife/web/src/assets/fml-mark.svg` | budget.piper.sydney app icon |
 | MindCanvas Studio | `logos/mindcanvas/tangent-logo.jpg` | `mindcanvas-studio/src/assets/tangent_logo_paper_pencil_tile.jpg` | mindcanvas.piper.sydney app icon |
 | Snapmark (Screeny) | `logos/snapmark/screeny-icon.png` | `snapmark-macos/Resources/ScreenyIcon.png` | macOS app icon + marketing page |
-| Piper Group Sydney | `logos/piper-group/piper-group-sydney-logo.svg` | `piper-group-sydney-logo.svg` (draft SVG) | Umbrella brand mark |
+| Piper Group Sydney | `logos/piper-group/piper-group-sydney-logo.svg` | `piper-group-sydney-logo.svg` (draft SVG) | Umbrella brand mark; profile README embeds the emblem crop below |
+
+## Derived icons (profile README)
+
+Small theme-neutral derivatives so the profile README's 28px table icons have
+no white glare in dark mode. The masters above stay the source of truth;
+regenerate a derivative if its master changes.
+
+| Icon | Derived from | Used in |
+|---|---|---|
+| `logos/yomamma/yomamma-icon.svg` | `logos/yomamma/yomamma-master.svg` (rounded-tile copy, rx=112) | Profile README app table |
+| `logos/mindcanvas/tangent-icon.png` | `logos/mindcanvas/tangent-logo.jpg` (rounded-corner 112px copy) | Profile README app table |
+| `logos/recipes/little-simmer-icon.png` | `logos/recipes/little-simmer-master.png` (rounded-corner 112px copy) | Profile README app table |
+| `logos/snapmark/snapmark-icon.png` | `logos/snapmark/screeny-icon.png` (rounded-corner 112px copy) | Profile README app table |
+| `logos/piper-group/piper-group-mark.svg` | `logos/piper-group/piper-group-sydney-logo.svg` (square emblem crop, viewBox `160 170 540 540`) | Profile README web & self-hosted table |
 
 ## Notes
 
