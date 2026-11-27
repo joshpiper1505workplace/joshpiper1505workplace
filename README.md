@@ -33,7 +33,7 @@ Software engineer in **Sydney, Australia** 🇦🇺. After three years of heads-
 | 🔁 | [**SubbyScrubby**](https://joshuapiper.dev/projects/subscription-manager/) | Renewals, trials & plan comparisons |
 | <img src="logos/snapmark/snapmark-icon.png" width="28" alt="" /> | [**Snapmark**](https://joshuapiper.dev/projects/snapmark/) | Screenshots, markup, OCR & library |
 | 🎧 | [**Listenable**](https://joshuapiper.dev/projects/listenable/) | Reddit & articles, cleaned up for listening |
-| ⛳ | [**Piper's Putt Party**](https://joshuapiper.dev/future/game-01/) | Mini golf on the web — a future Piper idea, concept stage |
+| ⛳ | [**Piper's Putt Party**](https://joshuapiper.dev/future/game-01/) | Mini golf on the web — concept stage |
 
 ## 🛠 Mac utilities
 
